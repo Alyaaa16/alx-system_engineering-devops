@@ -1,0 +1,3 @@
+#!/bin/bash 6-firstdirectory 7-movethatfile 8-fil
+#!/bin/bash 6-firstdirectory
+ls -al

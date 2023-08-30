@@ -1,2 +1,4 @@
 #!/bin/bash 8-firstdelete 9-firstdirdeletionirstdirdeletion
 mv /tmp/betty/tmp/my_first_directory/betty
+#!/bin/bash
+ mv /tmp/betty/tmp/my_first_directory/betty

@@ -1,2 +1,2 @@
 #!/bin/bash
-chown bnew_ownebetty hello
+chown betty hello
